@@ -36,9 +36,7 @@ const AppSidebar = () => {
       }}
     >
       <CSidebarHeader className="border-bottom">
-        <CSidebarBrand to="/" as={'h5'}>
-          <h5>MASIN DASHBOARD</h5>
-        </CSidebarBrand>
+        <h5>MASIN DASHBOARD</h5>
         <CCloseButton
           className="d-lg-none"
           dark
